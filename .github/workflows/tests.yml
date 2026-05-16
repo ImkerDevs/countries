@@ -32,4 +32,4 @@ jobs:
     - name: Run tests
       run: bundle exec rake
     - name: Publish code coverage
-      uses: paambaati/codeclimate-action@4917dea286223b7bf9988a41ba71cfca3c71250e # v9.0.0
+      uses: paambaati/codeclimate-action@f429536ee076d758a24705203199548125a28ca7 # v9.0.0
